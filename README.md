@@ -65,7 +65,8 @@ print("{:.2f}".format(inf_matrix))
 
 ### 2-Norm of a Matrix
 
-![image](https://github.com/Santhoshstudent/Norm-of-a-matrix/assets/145446853/390d4ff2-86e0-410f-a4e4-1a80689be951)
+![Screenshot 2024-04-23 114932](https://github.com/Santhoshstudent/Norm-of-a-matrix/assets/145446853/bb7cb7a7-b270-4038-8c73-1f61ce444c7b)
+
 
 
 
