@@ -59,17 +59,20 @@ print("{:.2f}".format(inf_matrix))
 ## Output:
 ### 1-Norm of a Matrix
 
-![image](https://github.com/Santhoshstudent/Norm-of-a-matrix/assets/145446853/e0a795a2-25e6-45c2-9ba4-003eac7410e9)
+![image](https://github.com/Santhoshstudent/Norm-of-a-matrix/assets/145446853/01c4a48b-0e84-4dd1-83a4-f9e6fb81e5bc)
+
 
 
 ### 2-Norm of a Matrix
 
-![image](https://github.com/Santhoshstudent/Norm-of-a-matrix/assets/145446853/91deb1ad-e9d4-4cab-ba9a-7bfa5ef5b49a)
+![image](https://github.com/Santhoshstudent/Norm-of-a-matrix/assets/145446853/390d4ff2-86e0-410f-a4e4-1a80689be951)
+
 
 
 ### Infinity Norm of a Matrix
 
-![image](https://github.com/Santhoshstudent/Norm-of-a-matrix/assets/145446853/79cb5389-9348-4d2d-8f36-02fe35e4c8f6)
+![image](https://github.com/Santhoshstudent/Norm-of-a-matrix/assets/145446853/826c422f-412a-474e-99bb-a9ce7de84dee)
+
 
 
 ## Result
